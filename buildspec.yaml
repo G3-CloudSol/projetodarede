@@ -6,4 +6,4 @@ build:
 
 artifacts:
   files:
-    - target/contato.html
+    - target/projetodarede/contato.html
